@@ -1,3 +1,4 @@
+![SIH](./Banner.png)
 # Siksha-Sarthi
 
 ## Overview of the Project:
@@ -33,15 +34,11 @@
 ### Home Page
 ![Home Page](./UIUX/Home.png)
 
-### Interactive Learning Module
-![Learning Module](path/to/learning-module-screenshot.png)
+### My Courses
+![Courses](./UIUX/Course.png)
 
-### Virtual Classroom
-![Virtual Classroom](path/to/virtual-classroom-screenshot.png)
-
-### Progress Monitoring Dashboard
-![Dashboard](path/to/dashboard-screenshot.png)
-
+### AI Sarthi
+![AI](./UIUX/ChatBot.png)
 
 <br>
 
