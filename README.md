@@ -31,7 +31,7 @@
 ## UI of the Project
 
 ### Home Page
-![Home Page](path/to/homepage-screenshot.png)
+![Home Page](./UIUX/home.png)
 
 ### Interactive Learning Module
 ![Learning Module](path/to/learning-module-screenshot.png)
