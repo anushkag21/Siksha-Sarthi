@@ -26,6 +26,8 @@
 - **Progress Monitoring:**
   - Visualizes student performance, monitors progress, and identifies areas for improvement through interactive dashboards.
 
+<br>
+
 ## UI of the Project
 
 ### Home Page
@@ -40,6 +42,9 @@
 ### Progress Monitoring Dashboard
 ![Dashboard](path/to/dashboard-screenshot.png)
 
+
+<br>
+
 ## Potential Impact on Audience:
 
 - **Enhanced Learning:**
@@ -50,6 +55,9 @@
 
 - **Long-Distance Collaboration:**
   - Strengthens peer networks and community support.
+
+
+<br>
 
 ## The Advantages of the Solution:
 
@@ -62,39 +70,40 @@
 - **Environmental Benefits:**
   - Reduces the need for physical resources through digital learning.
 
+<br>
 ## Team Members
 
-### —----------------Team Leader 1—-----------------
+### —----------------Team Leader—-----------------
 **Name:** Mrinal Paul  
 **Degree:** B.Tech  
 **Gender:** Male  
 **Email ID:** mp2126@srmist.edu.in
 
-### —----------------Member 2—-----------------
+### —----------------Team Member 1—-----------------
 **Name:** Harshvardhan Sahay  
 **Degree:** B.Tech  
 **Gender:** Male  
 **Email ID:** hs4626@srmist.edu.in
 
-### —----------------Member 3—-----------------
-**Name:** Shubhayu Kundu  
-**Degree:** B.Tech  
-**Gender:** Male  
-**Email ID:** sk2527@srmist.edu.in
-
-### —----------------Member 4—-----------------
-**Name:** Anushka Gupta  
-**Degree:** B.Tech  
-**Gender:** Female  
-**Email ID:** ag8999@srmist.edu.in
-
-### —----------------Member 5—-----------------
+### —----------------Team Member 2—-----------------
 **Name:** Aastha Hotwani  
 **Degree:** B.Tech  
 **Gender:** Female  
 **Email ID:** ah8790@srmist.edu.in
 
-### —----------------Member 6—-----------------
+### —----------------Team Member 3—-----------------
+**Name:** Anushka Gupta  
+**Degree:** B.Tech  
+**Gender:** Female  
+**Email ID:** ag8999@srmist.edu.in
+
+### —----------------Team Member 4—-----------------
+**Name:** Shubhayu Kundu  
+**Degree:** B.Tech  
+**Gender:** Male  
+**Email ID:** sk2527@srmist.edu.in
+
+### —----------------Team Member 5—-----------------
 **Name:** Nilanjan Ghosh  
 **Degree:** B.Tech  
 **Gender:** Male  
